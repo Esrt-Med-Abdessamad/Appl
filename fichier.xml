@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+Ce projet est développé par Esserrati Mohammed Abdessamad Un étudiant ingénieur informatique en deuxième année
+pour pratiquer le développement par PHP et autre langage de programation etuliser Html,CSS,JavaScript,Ajax, et MySQL.
+**/
+-->
+<projectDescription>
+	<name>????? ??? ???????? ???????</name>
+	<name2>application web de messagerie instantanée</name2>
+	<comment></comment>
+	<projects>
+		"????? ????? ??? ???????? ???????","Réalisation d'une application web de messagerie instantanée"
+	</projects>
+	<buildSpec>
+	
+		<auteur>
+				<name>	??????? ???? ??? ?????</name>
+			<name1>ESSERRATI MOHAMMED ABDESSAMAD</name1>
+			
+			<arguments>
+				Cette project est une premier Application creer par
+				PHP et l'autre outile de programation etuliser dans
+				mon projet .
+			</arguments>
+		</auteur>
+		<buildCommand>
+			<name></name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature></nature>
+	</natures>
+	<description>
+	Le but de mon<strong> projet</strong> est la conception plus
+			la réalisation d'une application de <strong>chat messagerie
+			instantanée</strong> qui fonctionne sous le Web. Pour la développer,
+			nous avons utilisé plusieurs technologies
+	</description>
+</projectDescription>

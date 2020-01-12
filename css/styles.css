@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+html, body {overflow:hidden;margin:0px;padding:0px;}
+		
+.Contune{
+	position:fixed;
+	overflow:auto;
+	right:0px;
+	left:0px;
+	bottom:0px;
+	top:52px;
+	border:  1px ;
+	background-color:#86ECB9;
+}
+.presenter{
+	overflow:hidden;
+	top:95px;	
+	width: 25em;
+  	height: 25em;
+  left:0px;
+  bottom:0px;
+  top:0px;
+}
+#Connexion , #CreerCompte{
+  left:138px;
+  width:450px;
+  bottom:0px;
+  top:0px;
+  border:solid;
+	border-radius : 15px;
+  text-align: center;border:solid 1px;background-color:#c0c0c0;
+  
+}
+.crumbs {
+    position:fixed;
+	overflow:visible;
+	right:0px;
+	left:0px;
+	top:0px;
+	height:50px;
+	border:solid 1px;
+	background-color:#EDF9F7;
+	font-size:90%;
+}
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block; 
+    text-align: center;
+}
